@@ -5,8 +5,12 @@ html.mauve
  bizentinzne curse of judges satans world taken hell om earth
 
 
+ Install locally for a project:
+npm install --save-dev coffeescript
 
-    
+# Install globally to execute .coffee files anywhere:
+npm install --global coffeescript    
 
 
 )))
+
