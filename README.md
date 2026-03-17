@@ -1,3 +1,7 @@
+![ashnikko-livestream-2021-696x442](https://github.com/user-attachments/assets/2ed242fc-c8db-425a-90ed-3fcc4f403083)
+
+
+
 <img width="278" height="189" alt="Screenshot 2025-10-30 11 50 23 AM" src="https://github.com/user-attachments/assets/5934e19c-f31f-4c0b-8861-9129e3a515cb" />
 
 
